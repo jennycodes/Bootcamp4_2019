@@ -1,0 +1,1 @@
+//removebuilding.js
